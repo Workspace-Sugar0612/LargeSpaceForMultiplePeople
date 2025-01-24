@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3188918493778039109
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 639247ca83abc874e893eb93af2b5e44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 0
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MA_daohang
+  m_Shader: {fileID: -6465566751694194690, guid: e03fa5d053c31ba40a729b44150cad53, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _BUILTIN_SURFACE_TYPE_TRANSPARENT
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    RenderType: Transparent
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_19b4bc6e5ce24cf7b6f460c3c37213e2_Texture_1:
+        m_Texture: {fileID: 2800000, guid: b4b9798ab1a4394498adeb806c5f372d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_19b4bc6e5ce24cf7b6f460c3c37213e2_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: b4b9798ab1a4394498adeb806c5f372d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_5924e8c7aa7d488eaec99c4e88bbd5fc_Texture_1:
+        m_Texture: {fileID: 2800000, guid: daf29b319901c30428f43cabeeceffc7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_5924e8c7aa7d488eaec99c4e88bbd5fc_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: daf29b319901c30428f43cabeeceffc7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BUILTIN_AlphaClip: 0
+    - _BUILTIN_Blend: 0
+    - _BUILTIN_CullMode: 2
+    - _BUILTIN_DstBlend: 10
+    - _BUILTIN_QueueControl: 0
+    - _BUILTIN_QueueOffset: 0
+    - _BUILTIN_SrcBlend: 5
+    - _BUILTIN_Surface: 1
+    - _BUILTIN_ZTest: 4
+    - _BUILTIN_ZWrite: 0
+    - _BUILTIN_ZWriteControl: 0
+    m_Colors:
+    - _01_Color: {r: 0.24025163, g: 2.5134194, b: 2.9960785, a: 1}
+    - _01_uv_offset: {r: 0, g: -1, b: 0, a: 0}
+    - _01_uv_tiling: {r: 2, g: 20, b: 0, a: 0}
+    - _02_Color: {r: 0.48882052, g: 15.560786, b: 14.746086, a: 1}
+    - _02_uv_offset: {r: 0, g: -0.3, b: 0, a: 0}
+    - _02_uv_tiling: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
